@@ -8,7 +8,6 @@
 --color-charcoal: #1f2933;
 }
 
-/* General Styles */
 body {
 background-color: var(--color-ivory);
 color: var(--color-charcoal);
